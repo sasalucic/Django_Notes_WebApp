@@ -1,5 +1,5 @@
 # Django_Notes_WebApp
-# Calculator App
+# Notes App
 
 This is a notes app developed using Django framework. The app allows users to create user profile, log in, create notes, save notes and mark them as done.
 
